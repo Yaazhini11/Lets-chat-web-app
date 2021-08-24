@@ -1,0 +1,78 @@
+body{
+    background-image:url(wall.jpeg);
+    background-position:left;
+    background-size:center;
+}
+
+#heading{
+    text-align: center;
+    color:white;
+    font-size: 50px;
+    padding-top: 90px;
+}
+
+#mail{
+    text-align: center;
+}
+
+#main{
+    background-color:white;
+    height: 370px;
+    width: 500px;
+    border-radius: 20px;
+    
+}
+#user_name{
+margin-bottom: 20px;
+}
+
+
+
+#logo{
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
+
+#user_name{
+    width: 400px;
+    height: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    background-color: beige;
+    border-radius: 20px;
+    border-color: black;
+}
+
+h4{
+    font-family: 'Anthon', cursive;
+}
+
+h3{
+    font-family: 'Anthon', cursive; 
+}
+
+h1{
+    font-family: 'Indie Flower', cursive; 
+}
+
+#login{
+    
+    border: white;
+        padding: 15px 25px;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: blue;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        
+      
+}
+
